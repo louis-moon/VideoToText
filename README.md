@@ -34,5 +34,3 @@ The Video-to-Text model presents numerous possibilities for future enhancements,
 - Extending the model's capabilities to video inputs for broader application.
 ## Contribution
 Equity A1 encourages contributions from the community. Whether it's feature enhancement, bug fixing, or improving documentation, your input is valuable. Please read the CONTRIBUTING.md for guidelines on how to contribute.
-
-Equity A1's Video-to-Text model represents a revolutionary step in AI-driven content analysis, offering a robust tool for converting the richness of visual information into descriptive narratives. Join us in this exciting journey to explore the untapped potential of AI in understanding and narrating the visual world.
